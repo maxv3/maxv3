@@ -1,11 +1,22 @@
-### Hi there 👋
+### Hi, I’m Maxim V. 👋
+---
+- 🔭 I'm currently working as a Senior Fullstack Developer & Technical Architect at DB Systel (Deutsche Bahn).
+- 👀 I’m very interested in technical architecture, clean code, performance optimizations, backend and frontend development
+  - JavaScript, TypeScript, VueJS ...
+  - Golang (Gin, Fiber, Fyne, GioUI) ...
+  - Java (Spring Boot), Kotlin ...
+🥊 🥋 In my spare time I love spending time with my family and friends, learning new technologies and frameworks, playing tennis and bicycling
+
+### Social media 📭 
+---
+[XING](https://www.xing.com/profile/Maxim_Vexler)
 
 <!--
 **maxv3/maxv3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I'm currently working as a Senior Fullstack Developer / technical Architect at DB Systel (Deutsche Bahn).
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
